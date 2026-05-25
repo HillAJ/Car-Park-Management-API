@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 target
 /.bsp
@@ -7,3 +8,11 @@ target
 /.project
 /.settings
 /RUNNING_PID
+=======
+*.class
+*.tasty
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 81c3b3f93f6e2baff20d45e92600f3688b9f5287
